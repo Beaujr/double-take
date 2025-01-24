@@ -6,6 +6,7 @@ on:
     branches:
       - master
       - beta
+      - mqtts-patch
   workflow_dispatch:
 
 jobs:
